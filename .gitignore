@@ -1,0 +1,9 @@
+#   importante sempre ter um .gitignore para ignorar arquivos 
+
+#   se for exposto, pode comprometer a segurança do seu projeto 
+#   (todo codigo fonte pode ser baixado)
+.git
+
+#   se for exposto, pode comprometer a segurança do seu projeto
+#   As credenciais ficam expostas
+.env 
